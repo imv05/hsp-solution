@@ -9,3 +9,5 @@ g++ -std=c++17 -O2 mycode.cpp -o mycode
 ## 运行
 
 ./mycode < input.txt > output.txt
+
+项目repo:https://gitee.com/openeuler/heterogeneous_systems_programming

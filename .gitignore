@@ -1,0 +1,6 @@
+/mycode
+/opticode
+/checker
+example/*debug*.txt
+example/outfile*.txt
+example/infile.txt
